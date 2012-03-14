@@ -1,0 +1,16 @@
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\bin\tryapp.dll
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\bin\tryapp.pdb
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\bin\microsoft.crm.sdk.proxy.dll
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\bin\microsoft.xrm.sdk.dll
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\bin\microsoft.crm.sdk.proxy.xml
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\bin\microsoft.xrm.sdk.xml
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\obj\Debug\tryapp.dll
+c:\users\hemant\documents\visual studio 2010\Projects\tryapp\tryapp\obj\Debug\tryapp.pdb
+C:\Users\Hemant\Documents\Visual Studio 2010\Projects\tryapp\tryapp\tryapp\bin\tryapp.dll
+C:\Users\Hemant\Documents\Visual Studio 2010\Projects\tryapp\tryapp\tryapp\bin\tryapp.pdb
+C:\Users\Hemant\Documents\Visual Studio 2010\Projects\tryapp\tryapp\tryapp\bin\microsoft.crm.sdk.proxy.xml
+C:\Users\Hemant\Documents\Visual Studio 2010\Projects\tryapp\tryapp\tryapp\bin\microsoft.xrm.sdk.xml
+C:\Users\Hemant\Documents\Visual Studio 2010\Projects\tryapp\tryapp\tryapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hemant\Documents\Visual Studio 2010\Projects\tryapp\tryapp\tryapp\obj\Debug\tryapp.dll
+C:\Users\Hemant\Documents\Visual Studio 2010\Projects\tryapp\tryapp\tryapp\obj\Debug\tryapp.pdb
